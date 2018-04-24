@@ -1,0 +1,7 @@
+C:\Users\mody\source\repos\Literal Characters\Literal Characters\bin\Debug\Literal Characters.exe.config
+C:\Users\mody\source\repos\Literal Characters\Literal Characters\bin\Debug\Literal Characters.exe
+C:\Users\mody\source\repos\Literal Characters\Literal Characters\bin\Debug\Literal Characters.pdb
+C:\Users\mody\source\repos\Literal Characters\Literal Characters\obj\Debug\Literal Characters.csprojResolveAssemblyReference.cache
+C:\Users\mody\source\repos\Literal Characters\Literal Characters\obj\Debug\Literal Characters.csproj.CoreCompileInputs.cache
+C:\Users\mody\source\repos\Literal Characters\Literal Characters\obj\Debug\Literal Characters.exe
+C:\Users\mody\source\repos\Literal Characters\Literal Characters\obj\Debug\Literal Characters.pdb
