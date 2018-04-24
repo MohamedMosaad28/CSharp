@@ -1,0 +1,7 @@
+C:\Users\mody\source\repos\Charstingbooltypes\Charstingbooltypes\bin\Debug\Charstingbooltypes.exe.config
+C:\Users\mody\source\repos\Charstingbooltypes\Charstingbooltypes\bin\Debug\Charstingbooltypes.exe
+C:\Users\mody\source\repos\Charstingbooltypes\Charstingbooltypes\bin\Debug\Charstingbooltypes.pdb
+C:\Users\mody\source\repos\Charstingbooltypes\Charstingbooltypes\obj\Debug\Charstingbooltypes.csprojResolveAssemblyReference.cache
+C:\Users\mody\source\repos\Charstingbooltypes\Charstingbooltypes\obj\Debug\Charstingbooltypes.csproj.CoreCompileInputs.cache
+C:\Users\mody\source\repos\Charstingbooltypes\Charstingbooltypes\obj\Debug\Charstingbooltypes.exe
+C:\Users\mody\source\repos\Charstingbooltypes\Charstingbooltypes\obj\Debug\Charstingbooltypes.pdb
