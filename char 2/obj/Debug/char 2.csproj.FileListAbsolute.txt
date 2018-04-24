@@ -1,0 +1,7 @@
+C:\Users\mody\source\repos\char 2\char 2\bin\Debug\char 2.exe.config
+C:\Users\mody\source\repos\char 2\char 2\bin\Debug\char 2.exe
+C:\Users\mody\source\repos\char 2\char 2\bin\Debug\char 2.pdb
+C:\Users\mody\source\repos\char 2\char 2\obj\Debug\char 2.csprojResolveAssemblyReference.cache
+C:\Users\mody\source\repos\char 2\char 2\obj\Debug\char 2.csproj.CoreCompileInputs.cache
+C:\Users\mody\source\repos\char 2\char 2\obj\Debug\char 2.exe
+C:\Users\mody\source\repos\char 2\char 2\obj\Debug\char 2.pdb
